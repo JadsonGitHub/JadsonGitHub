@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por tecnologia!  
 📚 Estudando Java, Spring Boot, Python, SQL e Linux  
-📍 Atualmente em Aracaju/SE  
 
 <h1 align="center"></h1>
 <br>
@@ -80,7 +79,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-0088CC?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:jadson.nascimento060@academico.ifs.edu.br)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((https://wa.me/+5579998290696))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5579998290696)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 <!--
