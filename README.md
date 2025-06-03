@@ -17,16 +17,13 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center"> Eu sou Jadson 👋 </h1>
-
-<br>
+<h1 align="center"> Eu sou Jadson 👋 </h1><br>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por tecnologia!  
 📚 Estudando Java, Spring Boot, Python, SQL e Linux  
 
-<h1 align="center"></h1>
-<br>
+<h1 align="center"></h1><br>
 
 <div align="center">
   
@@ -45,9 +42,11 @@ Here are some ideas to get you started:
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)|![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)|![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)|![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)|![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)|
 
-</div><br>
+</div>
 
-<h2 align="center"> 🧠 Interesses </h2>
+<h1 align="center"></h1>
+
+<h2 align="center"> 🧠 Interesses </h2><br>
 
 - BackEnd ( Java e Python )
 - Arduino  
@@ -55,12 +54,13 @@ Here are some ideas to get you started:
 - Automação
 - Sistemas Linux
 
-<br>
+<h1 align="center"></h1>
 
-<h2 align="center"> 🔄 Status </h2>
+<h2 align="center"> 🔄 Status </h2><br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JadsonGitHub&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></div><br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JadsonGitHub&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></div>
 
+<h1 align="center"></h1>
 
 <!--
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h2 align="center"> 📫 Contato </h2>
+<h2 align="center"> 📫 Contato </h2><br>
 
 <div align="center">
   
@@ -89,7 +89,9 @@ Here are some ideas to get you started:
 [![Mail.ru](https://img.shields.io/badge/Mail.ru-0088CC?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:seuemail@exemplo.com)
 -->
 
-</div><br>
+</div>
+
+<h1 align="center"></h1>
 
 
 
