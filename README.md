@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Eu sou Jadson 👋 </h1><br>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Analista e Desenvolvedor de Sistemas  
 💻 Apaixonado por tecnologia!  
-📚 Estudando Java, Spring Boot, Python, SQL e Linux  
+📚 Atualmente com Java, Spring Boot, Python, SQL e Linux  
 
 <h1 align="center"></h1><br>
 
