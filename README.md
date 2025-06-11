@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - Arduino  
 - Banco de Dados (SQL Server, PostgreSQL, Oracle)  
 - Automação
-- Sistemas Linux
+- Sistemas Linux (Debian, Ubuntu, Kali)
 
 <h1 align="center"></h1>
 
