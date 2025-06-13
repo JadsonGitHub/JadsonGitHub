@@ -110,12 +110,22 @@
 <h2 align = "center" > 🔍 Status </h2><br>
 
 <div align="center">
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark#gh-dark-mode-only" height="200" /> 
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="200" /> 
     &nbsp;&nbsp;
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=donut&theme=dark#gh-dark-mode-only" height="200" /> 
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=donut&theme=dark#gh-dark-mode-only" height="200" />
+    &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=8&background=0D1117&currStreakLabel=58A6FF&sideLabels=58A6FF&sideNums=C9D1D9&dates=C9D1D9&stroke=30363D" />
 </div>
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=percentile" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&langs_count=10&hide=html&theme=dark&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&border_radius=8)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jadsongithub&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&hide=prs,issues,contribs&count_private=true&include_all_commits=true&hide_title=false&disable_animations=false&hide_rank=false&rank_icon=github&show=reviews,discussions_started,discussions_answered&theme=dark&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&border_radius=8)
+
 <div align = "center" ><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=b630055d-d1c2-4dc3-b5f3-bd152fccc0b9&layout=compact&theme=dark#gh-dark-mode-only&hide_progress=false&display_format=percent" /></div>
 -->
 
