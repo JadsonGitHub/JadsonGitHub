@@ -11,44 +11,97 @@
 <div align="center">
     
     🎓 Analista e Desenvolvedor de Sistemas  
-
     📚 Me aprimorando em Java, Spring Boot, Python, SQL e Linux  
     
 </div>
 
-<!--
-
-|![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)|![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)|![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)|![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)|![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)|![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)|![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)|![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)|![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)|
-
-| **Languages**  | <img src="https://skillicons.dev/icons?i=cpp" />   <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=python" /> |
-| :------------: | -------------- |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" /> <img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring&logoColor=white&label=" height="50" width="55" /> |
-| **SO**         | <img src="https://skillicons.dev/icons?i=debian" /> <img src="https://skillicons.dev/icons?i=linux" /> <img src="https://skillicons.dev/icons?i=ubuntu" /> <img src="https://skillicons.dev/icons?i=kali" /> |
-| **DB**         | <img src="https://skillicons.dev/icons?i=oracle" /> <img src="https://skillicons.dev/icons?i=postgresql" /> <img src="https://skillicons.dev/icons?i=sql" /> <img src="https://skillicons.dev/icons?i=sqlserver" /> |
-| **Tools**      | <img src="https://skillicons.dev/icons?i=arduino" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=intelliji" /> <img src="https://skillicons.dev/icons?i=vscode" /> |
-
--->
-
 <h2 align = "center" >  📡 Tecnologias </h2><br>
 
 <div align = "center" >
+<!--
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com)&nbsp;&nbsp;
+[![Python](https://skillicons.dev/icons?i=py&)](https://www.python.org)&nbsp;&nbsp;
+[![FastAPI](https://skillicons.dev/icons?i=fastapi&)](https://fastapi.tiangolo.com)&nbsp;&nbsp;
+[![Spring Boot](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/projects/spring-boot)&nbsp;&nbsp;
+[![Debian](https://skillicons.dev/icons?i=debian&)](https://www.debian.org)&nbsp;&nbsp;
+[![Linux](https://skillicons.dev/icons?i=linux&theme=light)](https://kernel.org)&nbsp;&nbsp;
+[![Kali Linux](https://skillicons.dev/icons?i=kali&)](https://www.kali.org)&nbsp;&nbsp;
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu&)](https://ubuntu.com)&nbsp;&nbsp;
+[![Windows](https://skillicons.dev/icons?i=windows&)](https://www.microsoft.com/windows)&nbsp;&nbsp;
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&)](https://www.postgresql.org)&nbsp;&nbsp;
+[![Arduino](https://skillicons.dev/icons?i=arduino&)](https://www.arduino.cc)&nbsp;&nbsp;
+[![Git](https://skillicons.dev/icons?i=git&)](https://git-scm.com)&nbsp;&nbsp;
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea&)](https://www.jetbrains.com/idea)&nbsp;&nbsp;
+[![VS Code](https://skillicons.dev/icons?i=vscode&)](https://code.visualstudio.com)&nbsp;&nbsp;
+-->
+    
+<div align="center">
+  <a href="https://www.java.com"> 
+    <img src="https://skillicons.dev/icons?i=java&theme=light" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=py" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://skillicons.dev/icons?i=spring&theme=light" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.debian.org">
+    <img src="https://skillicons.dev/icons?i=debian" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kernel.org">
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kali.org">
+    <img src="https://skillicons.dev/icons?i=kali" width="70" height="70" />
+  </a>
+  <br>
+  <a href="https://ubuntu.com">
+    <img src="https://skillicons.dev/icons?i=ubuntu" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.microsoft.com/windows">
+    <img src="https://skillicons.dev/icons?i=windows" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgres" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.arduino.cc">
+    <img src="https://skillicons.dev/icons?i=arduino" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/idea">
+    <img src="https://skillicons.dev/icons?i=idea" width="70" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" width="70" height="70" />
+  </a>
+</div>
 
-| **Languages**  | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)     |
-| :------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)                                                                                       |
-| **SO**         | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)                                                                                                                                 |
-| **DB**         | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)                                                                                                                                                                                                  |
-| **Tools**      | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,py,fastapi,spring,debian,linux,kali,ubuntu,windows,postgres,arduino,git,idea,vscode&theme=light&perline=3)](https://skillicons.dev) -->
 
 </div>
 
-<h2 align = "center" > 🧠 Interesses </h2>
+<h2 align = "center" > 🧠 Interesses </h2><br>
 
 <div align="center">
   
-| |
+|   |
 |---|
 | ● BackEnd ( Java e Python )<br>● Arduino<br>● Banco de Dados (SQL Server, PostgreSQL, Oracle)<br>● Automação<br>● Sistemas Linux ( Debian, Ubuntu, Kali )|
 
@@ -57,30 +110,29 @@
 <h2 align = "center" > 🔍 Status </h2><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark#gh-dark-mode-only" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=donut&theme=dark#gh-dark-mode-only" height="200" />
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark#gh-dark-mode-only" height="200" /> 
+    &nbsp;&nbsp;
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=donut&theme=dark#gh-dark-mode-only" height="200" /> 
 </div>
 
 <!--
 <div align = "center" ><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=b630055d-d1c2-4dc3-b5f3-bd152fccc0b9&layout=compact&theme=dark#gh-dark-mode-only&hide_progress=false&display_format=percent" /></div>
 -->
 
-<h2 align = "center" > 📫 Contatos </h2><br>
+<h2 align = "center" > 📫 Contatos </h2>
 
-<div align = "center" >
-  
-<a href="mailto:jadson.nascimento060@academico.ifs.edu.br" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/email.png"  alt="Email" width="50" height="50" />
-</a>
-
-<a href="https://wa.me/+5579998290696" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/whatsapp.png"  alt="WhatsApp" width="50" height="50" />
-</a>
-
-<a href="https://br.linkedin.com/in/jadson-nascimento-0600371b6"  target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"  alt="LinkedIn" width="50" height="50" />
-</a>
-
+<div align = "center" >  
+    <a href="mailto:jadson.nascimento060@academico.ifs.edu.br" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/email.png"  alt="Email" width="60" height="60" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://wa.me/+5579998290696" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/whatsapp.png"  alt="WhatsApp" width="60" height="60" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://br.linkedin.com/in/jadson-nascimento-0600371b6"  target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png"  alt="LinkedIn" width="60" height="60" />
+    </a>
 </div>
 
 <h1 align="center"></h1>
