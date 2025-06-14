@@ -110,11 +110,12 @@
 <h2 align = "center" > 🔍 Status </h2><br>
 
 <div align="center">
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" width="500" /><br>
     &nbsp;&nbsp;
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&theme=dark#gh-dark-mode-only" height="200" /><br>
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" width="400" /><br>
     &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=8&currStreakLabel=C9D1D9" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=8&currStreakLabel=C9D1D9" width="400" /><br>
+    &nbsp;&nbsp;
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&theme=dark#gh-dark-mode-only" width="400" />
 </div>
 
 <br>
