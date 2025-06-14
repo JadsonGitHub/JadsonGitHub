@@ -113,14 +113,21 @@
     &nbsp;&nbsp;
   <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" width="400" /><br>
     &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=8&currStreakLabel=C9D1D9" width="400" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=4&currStreakLabel=C9D1D9&locale=pt_br" width="400" /><br>
     &nbsp;&nbsp;
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&theme=dark#gh-dark-mode-only" width="400" />
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&border_radius=3&theme=dark#gh-dark-mode-only" width="400" />
 </div>
 
 <br>
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=jadsongithub&theme=dark&border_radius=4&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=400)](https://git.io/streak-stats)
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=donut&theme=dark&hide_border=true"
+  style="border: 2px solid red; border-radius: 8px;" 
+/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=8&background=0D1117&currStreakLabel=58A6FF&sideLabels=58A6FF&sideNums=C9D1D9&dates=C9D1D9&stroke=30363D" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=percentile" />
