@@ -110,14 +110,18 @@
 <h2 align = "center" > 🔍 Status </h2><br>
 
 <div align="center">
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="200" /> 
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" width="500" /><br>
     &nbsp;&nbsp;
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=donut&theme=dark#gh-dark-mode-only" height="200" />
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&theme=dark#gh-dark-mode-only" height="200" /><br>
     &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=8&background=0D1117&currStreakLabel=58A6FF&sideLabels=58A6FF&sideNums=C9D1D9&dates=C9D1D9&stroke=30363D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=8&currStreakLabel=C9D1D9" width="500" />
 </div>
 
+<br>
+
 <!--
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=8&background=0D1117&currStreakLabel=58A6FF&sideLabels=58A6FF&sideNums=C9D1D9&dates=C9D1D9&stroke=30363D" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=percentile" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&langs_count=10&hide=html&theme=dark&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&border_radius=8)
