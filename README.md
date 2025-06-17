@@ -143,15 +143,15 @@
 
 <div align = "center" >  
     <a href="mailto:jadson.nascimento060@academico.ifs.edu.br" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/email.png"  alt="Email" width="60" height="60" />
+      <img src="https://img.icons8.com/color/48/000000/email.png"  alt="Email" width="40" height="40" />
     </a>
     &nbsp;&nbsp;
     <a href="https://wa.me/+5579998290696" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/whatsapp.png"  alt="WhatsApp" width="60" height="60" />
+      <img src="https://img.icons8.com/color/48/000000/whatsapp.png"  alt="WhatsApp" width="40" height="40" />
     </a>
     &nbsp;&nbsp;
     <a href="https://br.linkedin.com/in/jadson-nascimento-0600371b6"  target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png"  alt="LinkedIn" width="60" height="60" />
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png"  alt="LinkedIn" width="40" height="40" />
     </a>
 </div>
 
