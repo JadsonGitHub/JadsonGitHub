@@ -14,20 +14,20 @@
   <a href="https://www.java.com"> 
     <img src="https://skillicons.dev/icons?i=java&theme=light" width="50" height="50" />
   </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://skillicons.dev/icons?i=spring&theme=light" width="50" height="50" />
+  </a>
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=py" width="50" height="50" />
   </a>
   <a href="https://fastapi.tiangolo.com">
     <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" />
   </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring&theme=light" width="50" height="50" />
+  <a href="https://kernel.org">
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" width="50" height="50" />
   </a>
   <a href="https://www.debian.org">
     <img src="https://skillicons.dev/icons?i=debian" width="50" height="50" />
-  </a>
-  <a href="https://kernel.org">
-    <img src="https://skillicons.dev/icons?i=linux&theme=light" width="50" height="50" />
   </a>
   <a href="https://www.kali.org">
     <img src="https://skillicons.dev/icons?i=kali" width="50" height="50" />
@@ -58,8 +58,8 @@
 <h1 align = "center" ></h1><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=4&currStreakLabel=C9D1D9&locale=pt_br" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=4&currStreakLabel=C9D1D9&locale=pt_br" height="190" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=b630055d-d1c2-4dc3-b5f3-bd152fccc0b9&theme=dark&hide_title=true&border_radius=4&langs_count=6" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&border_radius=3&theme=dark" width="345" />
 </div>
