@@ -2,8 +2,8 @@
 
 <div align="center">
 
-    🎓 Analista e Desenvolvedor de Sistemas.  
-    📚 Me aprimorando em Java, Spring Boot, Python, SQL e Linux.  
+    🎓 Analista e Desenvolvedor de Sistemas 🎓  
+    📚 Me aprimorando em Java, Spring Boot, Python, SQL e Linux 📚  
 
 </div>
 
