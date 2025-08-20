@@ -88,7 +88,7 @@
   <a href="https://aka.ms/terminal">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal&theme=light" width="50" height="50" />
   </a>
-  <a href="www.uml.org">
+  <a href="https://www.uml.org">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="50" height="50" />
   </a>
   <a href="https://aka.ms/wsl">
