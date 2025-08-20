@@ -55,43 +55,43 @@
   <a href="https://code.visualstudio.com">
     <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://www.gnu.org/software/bash/">
     <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://daringfireball.net/projects/markdown/">
     <img src="https://skillicons.dev/icons?i=md" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://airflow.apache.org/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://claude.ai/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=light" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://chatgpt.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://gemini.google.com/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://github.com/copilot">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://www.microsoft.com/sql-server/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://aka.ms/terminal">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal&theme=light" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="	www.uml.org">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="50" height="50" />
   </a>
-  <a href="">
+  <a href="https://aka.ms/wsl">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" width="50" height="50" />
   </a>
 </div>
