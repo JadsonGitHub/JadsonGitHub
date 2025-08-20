@@ -55,6 +55,18 @@
   <a href="https://code.visualstudio.com">
     <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
   </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=md" width="50" height="50" />
+  </a>
 </div>
 
 <h1 align = "center" ></h1><br>
