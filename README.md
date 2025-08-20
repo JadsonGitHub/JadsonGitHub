@@ -67,6 +67,33 @@
   <a href="https://code.visualstudio.com">
     <img src="https://skillicons.dev/icons?i=md" width="50" height="50" />
   </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" width="50" height="50" />
+  </a>
 </div>
 
 <h1 align = "center" ></h1><br>
