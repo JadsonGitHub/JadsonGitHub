@@ -4,96 +4,129 @@
 
     •
     🎓 Analista e Desenvolvedor de Sistemas 🎓  
-    📚 Me aprimorando em Java, Spring Boot, Python, SQL e Linux 📚  
     •
 
 </div>
          
 <h1 align = "center" ></h1><br>
- 
-<div align = "center" >    
-<div align="center">
-  <a href="https://www.java.com"> 
-    <img src="https://skillicons.dev/icons?i=java&theme=light" width="50" height="50" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring&theme=light" width="50" height="50" />
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=py" width="50" height="50" />
-  </a>
-  <a href="https://fastapi.tiangolo.com">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" />
-  </a>
-  <a href="https://kernel.org">
-    <img src="https://skillicons.dev/icons?i=linux&theme=light" width="50" height="50" />
-  </a>
-  <a href="https://www.debian.org">
-    <img src="https://skillicons.dev/icons?i=debian" width="50" height="50" />
-  </a>
-  <a href="https://www.kali.org">
-    <img src="https://skillicons.dev/icons?i=kali" width="50" height="50" />
-  </a>
-  <a href="https://ubuntu.com">
-    <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" />
-  </a>
-  <a href="https://www.microsoft.com/windows">
-    <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" />
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
-  </a>
-  <a href="https://www.arduino.cc">
-    <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" />
-  </a>
-  <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
-  </a>
-  <a href="https://www.jetbrains.com/idea">
-    <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" />
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" />
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" />
-  </a>
-  <a href="https://daringfireball.net/projects/markdown/">
-    <img src="https://skillicons.dev/icons?i=md" width="50" height="50" />
-  </a>
-  <a href="https://airflow.apache.org/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" width="50" height="50" />
-  </a>
-  <a href="https://claude.ai/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=light" width="50" height="50" />
-  </a>
-  <a href="https://chatgpt.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="50" height="50" />
-  </a>
-  <a href="https://gemini.google.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="50" height="50" />
-  </a>
-  <a href="https://github.com/copilot">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" width="50" height="50" />
-  </a>
-  <a href="https://www.microsoft.com/sql-server/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="50" height="50" />
-  </a>
-  <a href="https://aka.ms/terminal">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal&theme=light" width="50" height="50" />
-  </a>
-  <a href="https://www.uml.org">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="50" height="50" />
-  </a>
-  <a href="https://aka.ms/wsl">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" width="50" height="50" />
-  </a>
+
+<div align = "center" >
+    <table>
+        <tr>
+            <td align="center">
+                <a href="https://www.java.com"> 
+                    <img src="https://skillicons.dev/icons?i=java&theme=light" width="50" height="50" />
+                </a>
+                <a href="https://spring.io/projects/spring-boot">
+                    <img src="https://skillicons.dev/icons?i=spring&theme=light" width="50" height="50" />
+                </a>
+            </br>
+                <a href="https://www.python.org">
+                    <img src="https://skillicons.dev/icons?i=py" width="50" height="50" />
+                </a>
+                <a href="https://fastapi.tiangolo.com">
+                    <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.figma.com/">
+                    <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" />
+                </a>
+                <a href="https://daringfireball.net/projects/markdown/">
+                    <img src="https://skillicons.dev/icons?i=md" width="50" height="50" />
+                </a>
+            </br>
+                <a href="https://www.uml.org">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="50" height="50" />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://claude.ai/">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=light" width="50" height="50" />
+                </a>
+                <a href="https://chatgpt.com">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="50" height="50" />
+                </a>
+            </br>
+                <a href="https://gemini.google.com/">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="50" height="50" />
+                </a>
+                <a href="https://github.com/copilot">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" width="50" height="50" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://www.jetbrains.com/idea">
+                    <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" />
+                </a>
+            </br>
+                <a href="https://code.visualstudio.com">
+                    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
+                </a>
+            </td>
+            <td align="center">
+            <a href="https://kernel.org">
+                    <img src="https://skillicons.dev/icons?i=linux&theme=light" width="50" height="50" />
+                </a>
+                <a href="https://www.debian.org">
+                    <img src="https://skillicons.dev/icons?i=debian" width="50" height="50" />
+                </a>
+                <a href="https://www.microsoft.com/windows">
+                    <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" />
+                </a>
+            </br>
+                <a href="https://ubuntu.com">
+                    <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" />
+                </a>
+                 <a href="https://www.kali.org">
+                    <img src="https://skillicons.dev/icons?i=kali" width="50" height="50" />
+                </a>
+                <a href="https://aka.ms/wsl">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" width="50" height="50" />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://git-scm.com">
+                    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
+                </a>
+            </br>
+                <a href="https://www.docker.com/">
+                    <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://airflow.apache.org/">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" width="50" height="50" />
+                </a>
+            </br>
+                <a href="https://www.arduino.cc">
+                    <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://aka.ms/terminal">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal&theme=light" width="50" height="50" />
+                </a>
+            </br>
+                <a href="https://www.gnu.org/software/bash/">
+                    <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.postgresql.org">
+                    <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
+                </a>
+            </br>
+                <a href="https://www.microsoft.com/sql-server/">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="50" height="50" />
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <h1 align = "center" ></h1><br>
@@ -144,6 +177,90 @@
 
 </div>
 
+<div align = "center" > 
+    <a href="https://www.java.com"> 
+        <img src="https://skillicons.dev/icons?i=java&theme=light" width="50" height="50" />
+    </a>
+    <a href="https://spring.io/projects/spring-boot">
+        <img src="https://skillicons.dev/icons?i=spring&theme=light" width="50" height="50" />
+    </a>
+    <a href="https://www.python.org">
+        <img src="https://skillicons.dev/icons?i=py" width="50" height="50" />
+    </a>
+    <a href="https://fastapi.tiangolo.com">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" />
+    </a>
+    <a href="https://kernel.org">
+        <img src="https://skillicons.dev/icons?i=linux&theme=light" width="50" height="50" />
+    </a>
+    <a href="https://www.debian.org">
+        <img src="https://skillicons.dev/icons?i=debian" width="50" height="50" />
+    </a>
+    <a href="https://www.kali.org">
+        <img src="https://skillicons.dev/icons?i=kali" width="50" height="50" />
+    </a>
+    <a href="https://ubuntu.com">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" />
+    </a>
+    <a href="https://www.microsoft.com/windows">
+        <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" />
+    </a>
+    <a href="https://www.postgresql.org">
+        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
+    </a>
+    <a href="https://www.arduino.cc">
+        <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" />
+    </a>
+    <a href="https://git-scm.com">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
+    </a>
+    <a href="https://www.jetbrains.com/idea">
+        <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" />
+    </a>
+    <a href="https://code.visualstudio.com">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
+    </a>
+    <a href="https://www.gnu.org/software/bash/">
+        <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" />
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
+    </a>
+    <a href="https://www.figma.com/">
+        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" />
+    </a>
+    <a href="https://daringfireball.net/projects/markdown/">
+        <img src="https://skillicons.dev/icons?i=md" width="50" height="50" />
+    </a>
+    <a href="https://airflow.apache.org/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" width="50" height="50" />
+    </a>
+    <a href="https://claude.ai/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=light" width="50" height="50" />
+    </a>
+    <a href="https://chatgpt.com">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="50" height="50" />
+    </a>
+    <a href="https://gemini.google.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="50" height="50" />
+    </a>
+    <a href="https://github.com/copilot">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" width="50" height="50" />
+    </a>
+    <a href="https://www.microsoft.com/sql-server/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="50" height="50" />
+    </a>
+    <a href="https://aka.ms/terminal">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal&theme=light" width="50" height="50" />
+    </a>
+    <a href="https://www.uml.org">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="50" height="50" />
+    </a>
+    <a href="https://aka.ms/wsl">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" width="50" height="50" />
+    </a>
+</div>
+
 <h2 align = "center" >  📡 Tecnologias </h2><br> 
 
 <div align = "center" >
@@ -162,6 +279,55 @@
 [![Git](https://skillicons.dev/icons?i=git&)](https://git-scm.com)&nbsp;&nbsp;
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea&)](https://www.jetbrains.com/idea)&nbsp;&nbsp;
 [![VS Code](https://skillicons.dev/icons?i=vscode&)](https://code.visualstudio.com)&nbsp;&nbsp;
+
+<table>
+  <tr>
+    <th>Linguagens</th>
+    <th>Infraestrutura</th>
+    <th>Bancos de Dados</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java&theme=light" width="40" />
+      <img src="https://skillicons.dev/icons?i=py" width="40" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="40" />
+      <img src="https://skillicons.dev/icons?i=windows" width="40" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <th>Ferramentas</th>
+    <th>Design & Modelagem</th>
+    <th>IA</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40" />
+      <img src="https://skillicons.dev/icons?i=docker" width="40" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="40" />
+    </td>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="40" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="40" />
+    </td>
+  </tr>
+</table>
+
+| Categoria | Habilidades |
+|-----------|------------|
+| **Linguagens & Frameworks** | ![Java](https://skillicons.dev/icons?i=java&theme=light) ![Spring](https://skillicons.dev/icons?i=spring&theme=light) ![Python](https://skillicons.dev/icons?i=py) ![FastAPI](https://skillicons.dev/icons?i=fastapi) |
+| **Sistemas & Infra** | ![Linux](https://skillicons.dev/icons?i=linux&theme=light) ![Debian](https://skillicons.dev/icons?i=debian) ![Kali](https://skillicons.dev/icons?i=kali) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Windows](https://skillicons.dev/icons?i=windows) |
+| **Bancos de Dados** | ![Postgres](https://skillicons.dev/icons?i=postgres) ![SQL Server](https://go-skill-icons.vercel.app/api/icons?i=sqlserver) |
+| **Ferramentas** | ![Git](https://skillicons.dev/icons?i=git) ![IDEA](https://skillicons.dev/icons?i=idea) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Docker](https://skillicons.dev/icons?i=docker) ![Figma](https://skillicons.dev/icons?i=figma) ![Markdown](https://skillicons.dev/icons?i=md) ![UML](https://go-skill-icons.vercel.app/api/icons?i=uml) |
+| **IA & Assistentes** | ![ChatGPT](https://go-skill-icons.vercel.app/api/icons?i=chatgpt) ![Claude](https://go-skill-icons.vercel.app/api/icons?i=claude&theme=light) ![Gemini](https://go-skill-icons.vercel.app/api/icons?i=gemini) ![Copilot](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot) |
 
 <div align="center">
   <a href="https://www.java.com"> 
