@@ -3,11 +3,11 @@
 <div align="center">
 
     •
-    🎓 Analista e Desenvolvedor de Sistemas 🎓  
+    • Analista e Desenvolvedor de Sistemas •  
     •
 
 </div>
-         
+
 <h1 align = "center" ></h1><br>
 
 <div align = "center" >
