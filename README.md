@@ -8,7 +8,7 @@
 
 </div>
 
-<h1 align = "center" ></h1><br>
+<!-- <h1 align = "center" ></h1><br> -->
 
 <div align = "center" >
     <table>
@@ -132,7 +132,7 @@
     </table>
 </div>
 
-<h1 align = "center" ></h1><br>
+<!-- <h1 align = "center" ></h1><br> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="170" />
@@ -141,7 +141,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&border_radius=3&theme=dark" width="345" />
 </div>
 
-<h1 align="center"></h1>
+<!-- <h1 align="center"></h1> -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadsongithub/jadsongithub/output/github-contribution-grid-snake-dark.svg">
@@ -149,7 +149,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jadsongithub/jadsongithub/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2 align = "center" ></h2><br>
+<!-- <h2 align = "center" ></h2><br> -->
 
 <div align = "center" >  
     <a href="mailto:jadson.nascimento060@academico.ifs.edu.br" target="_blank">
