@@ -21,6 +21,7 @@
                     <img src="https://skillicons.dev/icons?i=spring&theme=light" width="50" height="50" />
                 </a>
 <!--             </br> -->
+           &nbsp;&nbsp;
                 <a href="https://www.python.org">
                     <img src="https://skillicons.dev/icons?i=py" width="50" height="50" />
                 </a>
@@ -73,6 +74,7 @@
                 <a href="https://www.debian.org">
                     <img src="https://skillicons.dev/icons?i=debian" width="50" height="50" />
                 </a>
+            &nbsp;&nbsp;
                 <a href="https://www.microsoft.com/windows">
                     <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" />
                 </a>
@@ -83,6 +85,7 @@
                  <a href="https://www.kali.org">
                     <img src="https://skillicons.dev/icons?i=kali" width="50" height="50" />
                 </a>
+             &nbsp;&nbsp;
                 <a href="https://aka.ms/wsl">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" width="50" height="50" />
                 </a>
