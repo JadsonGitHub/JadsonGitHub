@@ -20,7 +20,7 @@
                 <a href="https://spring.io/projects/spring-boot">
                     <img src="https://skillicons.dev/icons?i=spring&theme=light" width="50" height="50" />
                 </a>
-            </br>
+<!--             </br> -->
                 <a href="https://www.python.org">
                     <img src="https://skillicons.dev/icons?i=py" width="50" height="50" />
                 </a>
@@ -35,7 +35,7 @@
                 <a href="https://daringfireball.net/projects/markdown/">
                     <img src="https://skillicons.dev/icons?i=md" width="50" height="50" />
                 </a>
-            </br>
+<!--             </br> -->
                 <a href="https://www.uml.org">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="50" height="50" />
                 </a>
@@ -47,7 +47,7 @@
                 <a href="https://chatgpt.com">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="50" height="50" />
                 </a>
-            </br>
+<!--             </br> -->
                 <a href="https://gemini.google.com/">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="50" height="50" />
                 </a>
@@ -61,7 +61,7 @@
                 <a href="https://www.jetbrains.com/idea">
                     <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" />
                 </a>
-            </br>
+<!--             </br> -->
                 <a href="https://code.visualstudio.com">
                     <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
                 </a>
@@ -91,7 +91,7 @@
                 <a href="https://git-scm.com">
                     <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
                 </a>
-            </br>
+<!--             </br> -->
                 <a href="https://www.docker.com/">
                     <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
                 </a>
@@ -102,7 +102,7 @@
                 <a href="https://airflow.apache.org/">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" width="50" height="50" />
                 </a>
-            </br>
+<!--             </br> -->
                 <a href="https://www.arduino.cc">
                     <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" />
                 </a>
@@ -111,7 +111,7 @@
                 <a href="https://aka.ms/terminal">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal&theme=light" width="50" height="50" />
                 </a>
-            </br>
+<!--             </br> -->
                 <a href="https://www.gnu.org/software/bash/">
                     <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" />
                 </a>
@@ -120,7 +120,7 @@
                 <a href="https://www.postgresql.org">
                     <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
                 </a>
-            </br>
+<!--             </br> -->
                 <a href="https://www.microsoft.com/sql-server/">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="50" height="50" />
                 </a>
