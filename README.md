@@ -2,9 +2,7 @@
          
 <div align="center">
 
-    •
     • Analista e Desenvolvedor de Sistemas •  
-    •
 
 </div>
 
