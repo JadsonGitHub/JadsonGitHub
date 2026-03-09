@@ -132,11 +132,40 @@
 
 <!-- <h1 align = "center" ></h1><br> -->
 
+## Cybersecurity Platforms
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="170" />
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jadson.nascimento060.png)](https://tryhackme.com/p/jadson.nascimento060)
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/HTB-0DA9584B4B)
+
+![TryHackMe](https://raw.githubusercontent.com/jadsongithub/jadsongithub/main/assets/thm_propic.png)
+
+</div>
+
+<!--
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/Jadsonhtb)<br>
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/HTB-0DA9584B4B)<br>
+
+<a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B">
+<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="50"/>
+</a>
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/HTB-0DA9584B4B)
+
+<a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B">
+<img src="https://cdn.simpleicons.org/hackthebox" width="50" height="50"/>
+</a>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,python,bash,docker,git,github,vscode,nmap,wireshark" />
+-->
+
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=4&currStreakLabel=C9D1D9&locale=pt_br" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=b630055d-d1c2-4dc3-b5f3-bd152fccc0b9&theme=dark&hide_title=true&border_radius=4&langs_count=6" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&border_radius=3&theme=dark" width="345" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&border_radius=3&theme=dark" width="345" /> -->
 </div>
 
 <!-- <h1 align="center"></h1> -->
