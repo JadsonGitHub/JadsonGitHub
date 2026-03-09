@@ -142,9 +142,39 @@
 
 ![TryHackMe](https://raw.githubusercontent.com/jadsongithub/jadsongithub/main/assets/thm_propic.png)
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jadsongithub&color=green"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast"/>
+</p>
+
 </div>
 
 <!--
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=jadsongithub&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadsongithub&theme=github-dark"/>
+</p>
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/kalilinux" width="50"/>
+<img src="https://cdn.simpleicons.org/wireshark" width="50"/>
+<img src="https://cdn.simpleicons.org/gnubash" width="50"/>
+
+</p>
+<p align="center">
+<img src="https://www.hackthebox.com/badge/image/HTB-0DA9584B4B"/>
+</p>
+-->
+<!--
+![HTB](https://img.shields.io/badge/HackTheBox-Active_Player-9FEF00?logo=hackthebox)
+
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/Jadsonhtb)<br>
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/HTB-0DA9584B4B)<br>
 
