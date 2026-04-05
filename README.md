@@ -3,7 +3,6 @@
 <div align="center">
 
     • Analista e Desenvolvedor de Sistemas •  
-
 </div>
 
 <!-- <h1 align = "center" ></h1><br> -->
@@ -137,66 +136,67 @@
 <div align="center">
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jadson.nascimento060.png)](https://tryhackme.com/p/jadson.nascimento060)
+<!--[![TryHackMe](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast)]()-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast"/>
+</p>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/HTB-0DA9584B4B)
 
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jadsongithub&color=green"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast"/>
+  <img src="https://komarev.com/ghpvc/?username=jadsongithub&color=green"/>
 </p>
 
 </div>
 
+<!-- ![TryHackMe](https://raw.githubusercontent.com/jadsongithub/jadsongithub/main/assets/thm_propic.png) -->
 <!--
-![TryHackMe](https://raw.githubusercontent.com/jadsongithub/jadsongithub/main/assets/thm_propic.png)
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=jadsongithub&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadsongithub&theme=github-dark"/>
-</p>
-<p align="center">
-
-<img src="https://cdn.simpleicons.org/kalilinux" width="50"/>
-<img src="https://cdn.simpleicons.org/wireshark" width="50"/>
-<img src="https://cdn.simpleicons.org/gnubash" width="50"/>
-
-</p>
-<p align="center">
-<img src="https://www.hackthebox.com/badge/image/HTB-0DA9584B4B"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=tokyonight"/>
 </p>
 -->
 <!--
-![HTB](https://img.shields.io/badge/HackTheBox-Active_Player-9FEF00?logo=hackthebox)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jadsongithub&theme=tokyonight"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadsongithub&theme=github-dark"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/kalilinux" width="50"/>
+  <img src="https://cdn.simpleicons.org/wireshark" width="50"/>
+  <img src="https://cdn.simpleicons.org/gnubash" width="50"/>
+</p>
+
+<p align="center">
+  <img src="https://www.hackthebox.com/badge/image/HTB-0DA9584B4B"/>
+</p>
+
+![HTB](https://img.shields.io/badge/HackTheBox-Active_Player-9FEF00?logo=hackthebox)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/Jadsonhtb)<br>
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/HTB-0DA9584B4B)<br>
 
 <a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B">
-<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="50"/>
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="50"/>
 </a>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/HTB-0DA9584B4B)
 
 <a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B">
-<img src="https://cdn.simpleicons.org/hackthebox" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/hackthebox" width="50" height="50"/>
 </a>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,python,bash,docker,git,github,vscode,nmap,wireshark" />
 -->
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=4&currStreakLabel=C9D1D9&locale=pt_br" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=b630055d-d1c2-4dc3-b5f3-bd152fccc0b9&theme=dark&hide_title=true&border_radius=4&langs_count=6" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&border_radius=3&theme=dark" width="345" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&border_radius=3&theme=dark" width="345" />
 </div>
 
 <!-- <h1 align="center"></h1> -->
@@ -222,6 +222,204 @@
         <img src="https://img.icons8.com/color/48/000000/linkedin.png"  alt="LinkedIn" width="40" height="40" />
     </a>
 </div>
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: TRYHACKME IMAGEM LOCAL (ALTERNATIVA) -->
+
+<!-- ========================================================= -->
+
+<!--
+![TryHackMe](https://raw.githubusercontent.com/jadsongithub/jadsongithub/main/assets/thm_propic.png)
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: GITHUB STATS (BÁSICO) -->
+
+<!-- ========================================================= -->
+
+<!--
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=tokyonight"/>
+</p>
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: STREAK STATS -->
+
+<!-- ========================================================= -->
+
+<!--
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=jadsongithub&theme=tokyonight"/>
+</p>
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: ACTIVITY GRAPH -->
+
+<!-- ========================================================= -->
+
+<!--
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadsongithub&theme=github-dark"/>
+</p>
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: ÍCONES SIMPLES (LINUX / WIRESHARK / BASH) -->
+
+<!-- ========================================================= -->
+
+<!--
+<p align="center">
+<img src="https://cdn.simpleicons.org/kalilinux" width="50"/>
+<img src="https://cdn.simpleicons.org/wireshark" width="50"/>
+<img src="https://cdn.simpleicons.org/gnubash" width="50"/>
+</p>
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: BADGE HTB (IMAGEM DIRETA) -->
+
+<!-- ========================================================= -->
+
+<!--
+<p align="center">
+<img src="https://www.hackthebox.com/badge/image/HTB-0DA9584B4B"/>
+</p>
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: VARIAÇÕES BADGE HACKTHEBOX -->
+
+<!-- ========================================================= -->
+
+<!--
+![HTB](https://img.shields.io/badge/HackTheBox-Active_Player-9FEF00?logo=hackthebox)
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/Jadsonhtb)
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/HTB-0DA9584B4B)
+
+<a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B">
+<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="50"/>
+</a>
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/HTB-0DA9584B4B)
+
+<a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B">
+<img src="https://cdn.simpleicons.org/hackthebox" width="50" height="50"/>
+</a>
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: SKILL ICONS (LINHA ÚNICA API) -->
+
+<!-- ========================================================= -->
+
+<!--
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,python,bash,docker,git,github,vscode,nmap,wireshark" />
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: GITHUB STATS COMPLETO (3 CARDS) -->
+
+<!-- ========================================================= -->
+
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=b630055d-d1c2-4dc3-b5f3-bd152fccc0b9&theme=dark" height="200" />
+</div>
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: TOP LANGS -->
+
+<!-- ========================================================= -->
+
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsongithub&layout=compact&theme=dark" />
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: WAKATIME AVULSO -->
+
+<!-- ========================================================= -->
+
+<!--
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=b630055d-d1c2-4dc3-b5f3-bd152fccc0b9&theme=dark" width="400" />
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: STREAK (VARIAÇÃO CUSTOM) -->
+
+<!-- ========================================================= -->
+
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=jadsongithub&theme=dark)](https://git.io/streak-stats)
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: TROPHIES -->
+
+<!-- ========================================================= -->
+
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=jadsongithub&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
+
+<!-- ========================================================= -->
+
+<!-- 🔴 BLOCO: STATS AVANÇADO (COM DETALHES) -->
+
+<!-- ========================================================= -->
+
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&include_all_commits=true&theme=dark)
+-->
+
+<!-- ====================== FIM BLOCO ========================= -->
 
 <!--
 
