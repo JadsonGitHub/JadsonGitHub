@@ -140,7 +140,6 @@
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/HTB-0DA9584B4B)
 
-![TryHackMe](https://raw.githubusercontent.com/jadsongithub/jadsongithub/main/assets/thm_propic.png)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jadsongithub&color=green"/>
@@ -152,6 +151,8 @@
 </div>
 
 <!--
+![TryHackMe](https://raw.githubusercontent.com/jadsongithub/jadsongithub/main/assets/thm_propic.png)
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=tokyonight"/>
 </p>
