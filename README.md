@@ -243,7 +243,7 @@
 
 <td align="center">
 <sub>
-<a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B">
+<a href="https://profile.hackthebox.com/profile/019d21ab-86d5-71a1-b9c8-3fb380ff567b">
 <img src="https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white" width="100">
 </a>
 <br>
