@@ -5,9 +5,99 @@
     • Analista e Desenvolvedor de Sistemas •  
 </div>
 
+<div align="center">
+<table>
+
+<tr>
+<td align="center">
+<sub>
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=light" width="50"></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring&theme=light" width="50"></a>
+<br>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="50"></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="50"></a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="50"></a>
+<a href="https://daringfireball.net/projects/markdown/"><img src="https://skillicons.dev/icons?i=md" width="50"></a>
+<br>
+<a href="https://www.uml.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="50"></a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://claude.ai/"><img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=light" width="50"></a>
+<a href="https://chatgpt.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="50"></a>
+<br>
+<a href="https://gemini.google.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="50"></a>
+<a href="https://github.com/copilot"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" width="50"></a>
+</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<sub>
+<a href="https://www.jetbrains.com/idea"><img src="https://skillicons.dev/icons?i=idea" width="50"></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="50"></a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://kernel.org"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="50"></a>
+<a href="https://www.debian.org"><img src="https://skillicons.dev/icons?i=debian" width="50"></a>
+<a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" width="50"></a>
+<br>
+<a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=ubuntu" width="50"></a>
+<a href="https://www.kali.org"><img src="https://skillicons.dev/icons?i=kali" width="50"></a>
+<a href="https://aka.ms/wsl"><img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" width="50"></a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="50"></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="50"></a>
+</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<sub>
+<a href="https://airflow.apache.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" width="50"></a>
+<br>
+<a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" width="50"></a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://aka.ms/terminal"><img src="https://go-skill-icons.vercel.app/api/icons?i=terminal&theme=light" width="50"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="50"></a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="50"></a>
+<br>
+<a href="https://www.microsoft.com/sql-server/"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="50"></a>
+</sub>
+</td>
+</tr>
+
+</table>
+</div>
+
 <!-- <h1 align = "center" ></h1><br> -->
 
-<div align = "center" >
+<!-- <div align = "center" >
     <table>
         <tr>
             <td align="center">
@@ -17,8 +107,6 @@
                 <a href="https://spring.io/projects/spring-boot">
                     <img src="https://skillicons.dev/icons?i=spring&theme=light" width="50" height="50" />
                 </a>
-<!--             </br> -->
-           &nbsp;&nbsp;
                 <a href="https://www.python.org">
                     <img src="https://skillicons.dev/icons?i=py" width="50" height="50" />
                 </a>
@@ -33,7 +121,7 @@
                 <a href="https://daringfireball.net/projects/markdown/">
                     <img src="https://skillicons.dev/icons?i=md" width="50" height="50" />
                 </a>
-<!--             </br> -->
+            </br>
                 <a href="https://www.uml.org">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="50" height="50" />
                 </a>
@@ -45,7 +133,7 @@
                 <a href="https://chatgpt.com">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="50" height="50" />
                 </a>
-<!--             </br> -->
+            </br>
                 <a href="https://gemini.google.com/">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="50" height="50" />
                 </a>
@@ -59,7 +147,7 @@
                 <a href="https://www.jetbrains.com/idea">
                     <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" />
                 </a>
-<!--             </br> -->
+            </br>
                 <a href="https://code.visualstudio.com">
                     <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
                 </a>
@@ -91,7 +179,7 @@
                 <a href="https://git-scm.com">
                     <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
                 </a>
-<!--             </br> -->
+            </br>
                 <a href="https://www.docker.com/">
                     <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
                 </a>
@@ -102,7 +190,7 @@
                 <a href="https://airflow.apache.org/">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" width="50" height="50" />
                 </a>
-<!--             </br> -->
+            </br>
                 <a href="https://www.arduino.cc">
                     <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" />
                 </a>
@@ -111,7 +199,7 @@
                 <a href="https://aka.ms/terminal">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal&theme=light" width="50" height="50" />
                 </a>
-<!--             </br> -->
+            </br>
                 <a href="https://www.gnu.org/software/bash/">
                     <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" />
                 </a>
@@ -120,23 +208,165 @@
                 <a href="https://www.postgresql.org">
                     <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
                 </a>
-<!--             </br> -->
+            </br>
                 <a href="https://www.microsoft.com/sql-server/">
                     <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="50" height="50" />
                 </a>
             </td>
         </tr>
     </table>
-</div>
+</div> -->
 
 <!-- <h1 align = "center" ></h1><br> -->
 
 ## Cybersecurity Platforms
 
 <div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+<td align="center" colspan="2">
+<sub>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=400&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast"/>
+</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<sub>
+<a href="https://tryhackme.com/p/jadson.nascimento060">
+<img src="https://tryhackme-badges.s3.amazonaws.com/jadson.nascimento060.png">
+</a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B">
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white" width="100">
+</a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=jadsongithub&color=green" width="100"/>
+</sub>
+</td>
+</tr>
+
+</table>
+</div>
+
+
+<!--
+## Cybersecurity Platforms
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=400&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast"/>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<sub>
+<a href="https://tryhackme.com/p/jadson.nascimento060"><img src="https://tryhackme-badges.s3.amazonaws.com/jadson.nascimento060.png"></a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white" width="100" ></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=jadsongithub&color=green" width="100" />
+</sub>
+</td>
+</tr>
+</table>
+
+</div>
+-->
+<!--
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<sub>
+<a href="https://tryhackme.com/p/jadson.nascimento060">
+<img src="https://tryhackme-badges.s3.amazonaws.com/jadson.nascimento060.png">
+</a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B">
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white">
+</a>
+</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<sub>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=400&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast"/>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<img src="https://komarev.com/ghpvc/?username=jadsongithub&color=green"/>
+</sub>
+</td>
+</tr>
+</table>
+
+</div>
+-->
+<!--
+
+<div align="center">
+<table>
+
+<tr>
+<td align="center">
+<sub>
+<a href="https://tryhackme.com/p/jadson.nascimento060">
+<img src="https://tryhackme-badges.s3.amazonaws.com/jadson.nascimento060.png">
+</a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://app.hackthebox.com/profile/HTB-0DA9584B4B">
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=white">
+</a>
+</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<sub>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast"/>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<img src="https://komarev.com/ghpvc/?username=jadsongithub&color=green"/>
+</sub>
+</td>
+</tr>
+
+</table>
+</div>
+-->
+<!--
+<div align="center">
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jadson.nascimento060.png)](https://tryhackme.com/p/jadson.nascimento060)
-<!--[![TryHackMe](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast)]()-->
+[![TryHackMe](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast)]()
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentesting+Learner;TryHackMe+Player;HackTheBox+Enthusiast"/>
@@ -149,7 +379,7 @@
 </p>
 
 </div>
-
+-->
 <!-- ![TryHackMe](https://raw.githubusercontent.com/jadsongithub/jadsongithub/main/assets/thm_propic.png) -->
 <!--
 <p align="center">
@@ -191,7 +421,7 @@
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,python,bash,docker,git,github,vscode,nmap,wireshark" />
 -->
-
+## Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=4&currStreakLabel=C9D1D9&locale=pt_br" height="170" />
@@ -209,18 +439,43 @@
 
 <!-- <h2 align = "center" ></h2><br> -->
 
-<div align = "center" >  
-    <a href="mailto:jadson.nascimento060@academico.ifs.edu.br" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/email.png"  alt="Email" width="40" height="40" />
-    </a>
+<!-- <div align = "center" >  
+    <a href="mailto:jadson.nascimento060@academico.ifs.edu.br" target="_blank"><img src="https://img.icons8.com/color/48/000000/email.png"  alt="Email" width="40" height="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://wa.me/+5579998290696" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/whatsapp.png"  alt="WhatsApp" width="40" height="40" />
-    </a>
+    <a href="https://wa.me/+5579998290696" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"  alt="WhatsApp" width="40" height="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://br.linkedin.com/in/jadson-nascimento-dev"  target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png"  alt="LinkedIn" width="40" height="40" />
-    </a>
+    <a href="https://br.linkedin.com/in/jadson-nascimento-dev"  target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"  alt="LinkedIn" width="40" height="40" /></a>
+</div> -->
+
+<!-- <div align="center">
+<sub>
+<a href="mailto:jadson.nascimento060@academico.ifs.edu.br" target="_blank"><img src="https://img.icons8.com/color/48/000000/email.png"  alt="Email" width="40" height="40" /></a>
+<a href="https://wa.me/+5579998290696" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"  alt="WhatsApp" width="40" height="40" /></a>
+<a href="https://br.linkedin.com/in/jadson-nascimento-dev"  target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"  alt="LinkedIn" width="40" height="40" /></a>
+</sub>
+</div> -->
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<sub>
+<a href="mailto:jadson.nascimento060@academico.ifs.edu.br" target="_blank"><img src="https://img.icons8.com/color/48/000000/email.png"  alt="Email" width="40" height="40" /></a>
+</sub>      
+</td>
+      
+<td align="center">
+<sub>
+<a href="https://wa.me/+5579998290696" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"  alt="WhatsApp" width="40" height="40" /></a>
+</sub>
+</td>
+
+<td align="center">
+<sub>
+<a href="https://br.linkedin.com/in/jadson-nascimento-dev"  target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"  alt="LinkedIn" width="40" height="40" /></a>
+</sub>
+</td>
+</tr>
 </div>
 
 <!-- ========================================================= -->
