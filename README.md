@@ -15,7 +15,7 @@
 <sub>
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=light" width="50"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring&theme=light" width="50"></a>
-<br>
+<!-- <br> -->
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="50"></a>
 <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="50"></a>
 </sub>
@@ -25,7 +25,7 @@
 <sub>
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="50"></a>
 <a href="https://daringfireball.net/projects/markdown/"><img src="https://skillicons.dev/icons?i=md" width="50"></a>
-<br>
+<!-- <br> -->
 <a href="https://www.uml.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=uml" width="50"></a>
 </sub>
 </td>
@@ -34,7 +34,7 @@
 <sub>
 <a href="https://claude.ai/"><img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=light" width="50"></a>
 <a href="https://chatgpt.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="50"></a>
-<br>
+<!-- <br> -->
 <a href="https://gemini.google.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="50"></a>
 <a href="https://github.com/copilot"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" width="50"></a>
 </sub>
@@ -54,7 +54,7 @@
 <a href="https://kernel.org"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="50"></a>
 <a href="https://www.debian.org"><img src="https://skillicons.dev/icons?i=debian" width="50"></a>
 <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" width="50"></a>
-<br>
+<!-- <br> -->
 <a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=ubuntu" width="50"></a>
 <a href="https://www.kali.org"><img src="https://skillicons.dev/icons?i=kali" width="50"></a>
 <a href="https://aka.ms/wsl"><img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" width="50"></a>
@@ -73,7 +73,7 @@
 <td align="center">
 <sub>
 <a href="https://airflow.apache.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" width="50"></a>
-<br>
+<!-- <br> -->
 <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" width="50"></a>
 </sub>
 </td>
@@ -88,7 +88,7 @@
 <td align="center">
 <sub>
 <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="50"></a>
-<br>
+<!-- <br> -->
 <a href="https://www.microsoft.com/sql-server/"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="50"></a>
 </sub>
 </td>
