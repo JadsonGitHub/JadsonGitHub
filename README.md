@@ -54,7 +54,7 @@
 <a href="https://kernel.org"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="50"></a>
 <a href="https://www.debian.org"><img src="https://skillicons.dev/icons?i=debian" width="50"></a>
 <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" width="50"></a>
-<!-- <br> -->
+<br>
 <a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=ubuntu" width="50"></a>
 <a href="https://www.kali.org"><img src="https://skillicons.dev/icons?i=kali" width="50"></a>
 <a href="https://aka.ms/wsl"><img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" width="50"></a>
