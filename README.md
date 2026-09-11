@@ -425,6 +425,7 @@
 -->
 ## Stats
 <div align="center">
+  <a href="https://wakatime.com/@b630055d-d1c2-4dc3-b5f3-bd152fccc0b9"><img src="https://wakatime.com/badge/user/b630055d-d1c2-4dc3-b5f3-bd152fccc0b9.svg" alt="Total time coded since Jun 12 2025" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=jadsongithub&show_icons=true&theme=dark&rank_icon=github" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadsongithub&theme=dark&hide_border=false&border_radius=4&currStreakLabel=C9D1D9&locale=pt_br" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=b630055d-d1c2-4dc3-b5f3-bd152fccc0b9&theme=dark&hide_title=true&border_radius=4&langs_count=6" height="200" />
